@@ -127,6 +127,7 @@ C:\Users\elvind\source\repos\APITestExam\APITestExam\bin\Debug\System.Text.Encod
 C:\Users\elvind\source\repos\APITestExam\APITestExam\bin\Debug\System.Text.Json.xml
 C:\Users\elvind\source\repos\APITestExam\APITestExam\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\elvind\source\repos\APITestExam\APITestExam\bin\Debug\System.ValueTuple.xml
+C:\Users\elvind\source\repos\APITestExam\APITestExam\obj\Debug\APITestExam.csprojAssemblyReference.cache
 C:\Users\elvind\source\repos\APITestExam\APITestExam\obj\Debug\APITestExam.csproj.CoreCompileInputs.cache
 C:\Users\elvind\source\repos\APITestExam\APITestExam\obj\Debug\APITestExam.csproj.CopyComplete
 C:\Users\elvind\source\repos\APITestExam\APITestExam\obj\Debug\APITestExam.dll
